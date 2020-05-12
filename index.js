@@ -129,7 +129,7 @@ const server = new ApolloServer({ typeDefs, resolvers });
 const app = express();
 server.applyMiddleware({ app });
 
-const PORT = process.env.NODE_PORT || 3000;
+const PORT = process.env.PORT || 5000;
 app.listen({ port: PORT }, () => {
   console.log('server listening port:', PORT);
 });
