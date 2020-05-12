@@ -1,5 +1,9 @@
 # GraphQL example
 
+## DEMO
+
+[https://murmuring-wildwood-45964.herokuapp.com/graphql](https://murmuring-wildwood-45964.herokuapp.com/graphql)
+
 ## Usage
 
 ### Fetching users
