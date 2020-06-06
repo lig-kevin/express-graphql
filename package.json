@@ -4,7 +4,7 @@
   "author": "Kevin Felisilda",
   "main": "index.js",
   "dependencies": {
-    "apollo-server-express": "^2.13.0",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "lodash": "^4.17.15",
